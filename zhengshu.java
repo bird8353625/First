@@ -26,6 +26,7 @@ public class zhengshu {
 			}
 		}
 		System.out.println(sum);
+		
 	}
 
 }
